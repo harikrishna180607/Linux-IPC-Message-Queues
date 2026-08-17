@@ -19,7 +19,7 @@ Write the C Program using Linux message queues API
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-# SENDER SIDE PROGRA
+# SENDER SIDE PROGRAM
 ```
 
 
